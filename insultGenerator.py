@@ -6,7 +6,7 @@ insult1 = ["trogladite", "doo doo head", "lily pad", "wet blanket", "Johnny Wohn
 "murk lurker", "silly billy", "trap cactus", "con-wap-nay", "reaaaal bummer"]
 # Direct (he, she)
 insult2 = ["smell", "have a table face", "walk too fast", "is too ressponsible", "looks like a crab",
-"sings horribly", "likes to steal chips", "won't give me me $100", "eats beets", "kicks my dog"]
+"sings horribly", "likes to steal chips", "won't give me $100", "eats beets", "kicks my dog"]
 
 
 print("\n\nFirst off, I got some things I wanna say to you!\n")

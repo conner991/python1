@@ -1,6 +1,9 @@
 import random
 import sys
 
+print(sys.version)
+print(sys.executable)
+
 abuse = True 
 
 # Is a...
